@@ -33,4 +33,4 @@ SmartBiz Hub bridges these gaps with **AI-powered, low-data, and localized solut
 .  
 
 # Status
-This is an **MVP project** in development. Contributions, ideas, and collaborations are welcome.  
+This is an **demo project** made solely for the demonnstration of idea.The complete project is in development. Contributions, ideas, and collaborations are welcome.  
