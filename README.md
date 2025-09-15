@@ -31,6 +31,8 @@ SmartBiz Hub bridges these gaps with **AI-powered, low-data, and localized solut
 | **Data Sources** | Seasonal patterns, mandi price APIs, scraped competitor reviews, community inputs  |
 | **Deployment**   | Streamlit Cloud / Vercel / Firebase Hosting                                        |
 
+# Demo Video link 
+https://drive.google.com/file/d/1W9RJNFYXJT4d9IAvOjxR1Y2b2gc6kDFy/view?usp=sharing
 
 # Status
 This is an **demo project** made solely for the demonnstration of idea.The complete project is in development. Contributions, ideas, and collaborations are welcome.  
