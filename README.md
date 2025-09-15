@@ -30,7 +30,7 @@ SmartBiz Hub bridges these gaps with **AI-powered, low-data, and localized solut
 | **Automation**   | Python (workflow automation, data preprocessing)                                   |
 | **Data Sources** | Seasonal patterns, mandi price APIs, scraped competitor reviews, community inputs  |
 | **Deployment**   | Streamlit Cloud / Vercel / Firebase Hosting                                        |
-.  
+
 
 # Status
 This is an **demo project** made solely for the demonnstration of idea.The complete project is in development. Contributions, ideas, and collaborations are welcome.  
